@@ -1,0 +1,1249 @@
+{
+    "Activites": [
+        {
+            "Competences": 56,
+            "nom": "Percer avec la perceuse a tete multi\"tourillon\""
+        },
+        {
+            "Competences": 67,
+            "nom": "Coller afleurer un chant thermocoller"
+        },
+        {
+            "Competences": 16,
+            "nom": "-Etablir une fiche de débit"
+        },
+        {
+            "Competences": 54,
+            "nom": "Tracer sur massif"
+        },
+        {
+            "Competences": 56,
+            "nom": "Déligner à la scie à ruban"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Débiter des panneaux semi-finis"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Dégauchir un plat et un chant perpendiculaire"
+        },
+        {
+            "Competences": 35,
+            "nom": "-Effectuer le réglage d'une dégauchisseuse"
+        },
+        {
+            "Competences": 61,
+            "nom": "-Raboter aux dimensions données"
+        },
+        {
+            "Competences": 60,
+            "nom": "-Effectuer le réglage d'une raboteuse"
+        },
+        {
+            "Competences": 50,
+            "nom": "-Fabriquer un montage d'usinage"
+        },
+        {
+            "Competences": 47,
+            "nom": "-Etablir les bois"
+        },
+        {
+            "Competences": 47,
+            "nom": "-Tracer un assemblage simple"
+        },
+        {
+            "Competences": 30,
+            "nom": "-Tracer une épure"
+        },
+        {
+            "Competences": 25,
+            "nom": "-Réaliser une analyse de fabrication"
+        },
+        {
+            "Competences": 29,
+            "nom": "-Tracer une pièce chantournée"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Calibrer un panneau aux cotes finies"
+        },
+        {
+            "Competences": 15,
+            "nom": "-Ajuster une pièce dans son logement"
+        },
+        {
+            "Competences": 50,
+            "nom": "-Calibrer un chant courbe"
+        },
+        {
+            "Competences": 50,
+            "nom": "-Calibrer une pièce à un angle donné"
+        },
+        {
+            "Competences": 106,
+            "nom": "-Affûter un outil manuel à tranchant droit"
+        },
+        {
+            "Competences": 106,
+            "nom": "-Affûter un racloir"
+        },
+        {
+            "Competences": 106,
+            "nom": "-Affûter une scie à placage"
+        },
+        {
+            "nom": "s/taches\n-Affûter une scie manuelle"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Réaliser une entaille en bois de fil"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Réaliser une entaille en fil travers"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Réaliser une entaille en fil oblique"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Réaliser manuellement une mortaise borgne"
+        },
+        {
+            "Competences": 53,
+            "nom": "-Régler la mortaiseuse à mèche"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Utiliser la mortaiseuse à mèche"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Réaliser manuellement un tenon"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Réaliser manuelement un épaulement"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Utiliser la tenonneuse"
+        },
+        {
+            "Competences": 48,
+            "nom": "-Effectuer le réglage de la tenonneuse"
+        },
+        {
+            "Competences": 54,
+            "nom": "Exécuter une coupe d'onglet"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Exécuter un assemblage rainure languette"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Exécuter un assemblage à fausse languette"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Exécuter un assemblage à tourillons"
+        },
+        {
+            "Competences": 48,
+            "nom": "-Effectuer le réglage d'une toupie"
+        },
+        {
+            "Competences": 48,
+            "nom": "-Effectuer le réglage d'un entraineur"
+        },
+        {
+            "Competences": 53,
+            "nom": "-Mettre en position les organes de sécurité"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Profiler une pièce droite"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Profiler une pièce courbe"
+        },
+        {
+            "Competences": 55,
+            "nom": "-Effectuer un profilage arrêté"
+        },
+        {
+            "Competences": 68,
+            "nom": "-Monter et serrer un ouvrage plan"
+        },
+        {
+            "Competences": 68,
+            "nom": "-Monter et serrer un ouvrage en volume"
+        },
+        {
+            "Competences": 69,
+            "nom": "-Effectuer les contrôles de planéité"
+        },
+        {
+            "Competences": 69,
+            "nom": "-Effectuer les contrôles d'équerrage"
+        },
+        {
+            "Competences": 99,
+            "nom": "-Poser une poignée"
+        },
+        {
+            "Competences": 99,
+            "nom": "-Poser un compas"
+        },
+        {
+            "Competences": 99,
+            "nom": "-Poser une charnière"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Chantourner à la scie à ruban"
+        },
+        {
+            "Competences": 60,
+            "nom": "-Rattraper une courbe à la main"
+        },
+        {
+            "Competences": 55,
+            "nom": "-Calibrer un chant courbe"
+        },
+        {
+            "Competences": 60,
+            "nom": "-Replanir au rabot"
+        },
+        {
+            "Competences": 75,
+            "nom": "-Utiliser un racloir"
+        },
+        {
+            "Competences": 75,
+            "nom": "-Poncer les faces planes et courbes"
+        },
+        {
+            "Competences": 75,
+            "nom": "-Poncer une moulure"
+        },
+        {
+            "Competences": 54,
+            "nom": "-Executer un assemblage a lammelle(lamelo)"
+        },
+        {
+            "Competences": 99,
+            "nom": "-Poser une serrure"
+        },
+        {
+            "Competences": 67,
+            "nom": "-Réaliser un collage avec de la néoprène"
+        },
+        {
+            "Competences": 61,
+            "nom": "-Affleurer un panneau stratifié"
+        },
+        {
+            "Competences": 61,
+            "nom": "-Coller et affleurer des chants en stratifié"
+        }
+    ],
+    "ActivitesProjets": [
+        {
+            "Activites": 8,
+            "Projets": 3
+        },
+        {
+            "Activites": 6,
+            "Projets": 3
+        },
+        {
+            "Activites": 2,
+            "Projets": 3
+        },
+        {
+            "Activites": 0,
+            "Projets": 6
+        },
+        {
+            "Activites": 1,
+            "Projets": 6
+        },
+        {
+            "Activites": 58,
+            "Projets": 6
+        },
+        {
+            "Activites": 16,
+            "Projets": 6
+        },
+        {
+            "Activites": 14,
+            "Projets": 6
+        },
+        {
+            "Activites": 5,
+            "Projets": 6
+        },
+        {
+            "Activites": 2,
+            "Projets": 6
+        },
+        {
+            "Activites": 56,
+            "Projets": 5
+        },
+        {
+            "Activites": 44,
+            "Projets": 5
+        },
+        {
+            "Activites": 41,
+            "Projets": 5
+        },
+        {
+            "Activites": 11,
+            "Projets": 5
+        },
+        {
+            "Activites": 10,
+            "Projets": 5
+        },
+        {
+            "Activites": 8,
+            "Projets": 5
+        },
+        {
+            "Activites": 6,
+            "Projets": 5
+        },
+        {
+            "Activites": 3,
+            "Projets": 5
+        },
+        {
+            "Activites": 2,
+            "Projets": 5
+        },
+        {
+            "Activites": 5,
+            "Projets": 6
+        },
+        {
+            "Activites": 35,
+            "Projets": 6
+        },
+        {
+            "Activites": 3,
+            "Projets": 6
+        }
+    ],
+    "CCF": [
+        {
+            "debut": 2457161,
+            "fin": 2457161,
+            "nom": "UP3-2"
+        },
+        {
+            "debut": 2457147,
+            "fin": 2457147,
+            "nom": "UP3-1"
+        },
+        {
+            "debut": 2457112,
+            "fin": 2457112,
+            "nom": "UP2-2"
+        },
+        {
+            "debut": 2457077,
+            "fin": 2457077,
+            "nom": "UP162"
+        },
+        {
+            "debut": 2457035,
+            "fin": 2457035,
+            "nom": "UP1-1"
+        }
+    ],
+    "Classes": [
+        {
+            "nom": "CAP2MA"
+        },
+        {
+            "nom": "CAP1MA"
+        }
+    ],
+    "Competences": [
+        {
+            "name": ""
+        },
+        {
+            "name": "C1.1.1 Identifier les volumes de la construction dans l’environnement architectural"
+        },
+        {
+            "name": "C1.1.2 Identifier les différents dessins d’architecte et/ou d’ensemble"
+        },
+        {
+            "name": "C1.1.3 Interpréter les traits, les écritures, les symboles de représentation et la cotation"
+        },
+        {
+            "name": "C1.1.4 Identifier et localiser un élément sur les différents dessins et/ou documents techniques"
+        },
+        {
+            "name": "C1.1.5 Identifier et designer la forme géométrique des surfaces et des volumes constitutifs d’un élément d’ouvrage / produit"
+        },
+        {
+            "name": "C1.1.6 Retrouver les caractéristiques dimensionnelles d’un élément répertorié dans un descriptif"
+        },
+        {
+            "name": "C1.1.7 Décrire les positions relatives des surfaces et des volumes d’un élément"
+        },
+        {
+            "name": "C1.1.8 Décrire une solution constructive à partir d’une représentation ou d’un objet."
+        },
+        {
+            "name": "C1.1.9 Extraire d’un cartouche et/ou d’une nomenclature des informations utiles"
+        },
+        {
+            "name": "C1.1.10 Lire et situer une opération sur un planning"
+        },
+        {
+            "name": "-C1.1.11 Mettre en relation les informations entre les documents écrits et graphiques"
+        },
+        {
+            "name": "-C1.2.1 Relever les dimensions d’un ouvrage / produit ou d’une partie d’ouvrage à fabriquer."
+        },
+        {
+            "name": "-C1.2.2 Relever les caractéristiques dimensionnelles et géométriques d’un support"
+        },
+        {
+            "name": "-C1.2.3 Relever les positions en altitude de l’ouvrage à fabriquer"
+        },
+        {
+            "name": "-C1.2.4 Relever des formes par gabarit"
+        },
+        {
+            "name": "-C1.2.5 Relever les caractéristiques des matériaux et des produits nécessaires à la fabrication."
+        },
+        {
+            "name": "-C1.3.1 Rendre compte d’une activité :- les temps passés- les problèmes rencontrés- les matières et produits consommés"
+        },
+        {
+            "name": "-C2.1.1 Identifier les caractéristiques relatives :- aux produits - aux matériaux - aux types de matériels - à la qualité requise"
+        },
+        {
+            "name": "-C2.1.2 Comparer les caractéristiques - des produits - des matériaux - des matériels"
+        },
+        {
+            "name": "-C2.1.3 Déterminer un produit, un matériau, un matériel en fonction de sa destination"
+        },
+        {
+            "name": "-C2.2.1 Identifier l’ensemble des composants d’un ouvrage ou produit à fabriquer"
+        },
+        {
+            "name": "-C2.2.2 Quantifier les matériaux nécessaires à la réalisation de tout ou partie d’un ouvrage et/ou d’un produit"
+        },
+        {
+            "name": "-C2.2.3 Effectuer les classements critériés d’une préparation de tout ou partie d’un ouvrage et/ou d’un produit : - nature des matériaux- dimensions et qualité"
+        },
+        {
+            "name": "-C2.2.5 Renseigner le bordereau de fabrication :- les composants- les quantités- les temps"
+        },
+        {
+            "name": "-C2.3.1 Compléter un mode opératoire de fabrication d’un élément :- décliner les sous-phases et opérations d’une phase donnée- associer les moyens matériels et les outillages aux tâches à exécuter- Indiquer les contrôles à effectuer"
+        },
+        {
+            "name": "-C2.3.2 Compléter un contrat de phase en définissant : - les s/phases et opérations - la mise en position - le maintien en position - les paramètres de coupe"
+        },
+        {
+            "name": "-C2.4.1 Établir le relevé d’un élément ou d’une partie d’un ouvrage et/ou d’un produit"
+        },
+        {
+            "name": "-C2.4.2 Exécuter un croquis ou schéma à main levée d’un élément ou d’une partie d’un ouvrage et/ou d’un produit"
+        },
+        {
+            "name": "-C2.4.3 Interpréter et tracer :- les jeux de fonctionnement- les formes complexes(\"Chapeau de gendarme\", \"anse de panier\"…)- les vraies grandeurs de surfaces planes(hotte de cuisine panneau,caisson oblique…)"
+        },
+        {
+            "name": "-C2.4.4 Réaliser des tracés professionnels : - épure vraie grandeur, plan sur règle, mise au plan"
+        },
+        {
+            "name": "-C2.4.5 Représenter à l’aide des moyens graphiques :- des dessins d’exécution (détail d’une liaison, d’un\nassemblage…)- des représentations orthogonales d’éléments et/ou sous-ensembles simples (face, dessus, coté, coupes, sections)"
+        },
+        {
+            "name": "-C2.4.6 Indiquer sur un croquis, un schéma ou une mise au plan les cotes fonctionnelles."
+        },
+        {
+            "name": "-C3.1.1 Identifier les risques d’accident et les risques d’atteinte à la santé liés au poste de travail"
+        },
+        {
+            "name": "-C3.1.2 Mettre en œuvre les mesures de prévention qui relèvent de la responsabilité de l’opérateur"
+        },
+        {
+            "name": "-C3.1.3 Préparer les outillages et/ou accessoires nécessaires au poste de travail(repérage et débit, usinage, contrôle, montage, finition)"
+        },
+        {
+            "name": "-C3.1.4 Disposer rationnellement les supports et les accessoires amont et aval du poste de travail"
+        },
+        {
+            "name": "-C3.1.5 Approvisionner le poste de travail en matière et composants"
+        },
+        {
+            "name": "-C3.1.6 Respecter le circuit de fabrication"
+        },
+        {
+            "name": "-C3.1.7 Remettre le poste de travail dans son état initial."
+        },
+        {
+            "name": "-C3.2.1 Contrôler quantitativement à la réception, en cours et en fin d’opération les matériaux, produits et ouvrages :- à usiner- à monter- à finir"
+        },
+        {
+            "name": "-C3.2.2 Contrôler qualitativement à la réception en cours et en fin d’opération :- les dimensions\n- la géométrie- les caractéristiques physiques - l’aspect(des matériaux, produits et ouvrages, à usiner, à monter, à finir)"
+        },
+        {
+            "name": "-C3.2.3 Consigner les résultats"
+        },
+        {
+            "name": "-C3.2.4 Décider de l’acceptation du\nproduit, de sa retouche ou de son rejet"
+        },
+        {
+            "name": "-C3.2.5 Contrôler le bon fonctionnement des produits et ouvrages montés"
+        },
+        {
+            "name": "-C3.3.1 Sélectionner et rassembler les pièces ou composants à usiner, à monter, à finir"
+        },
+        {
+            "name": "-C3.3.2 Orienter, repérer les pièces et/ou sous-ensembles à usiner, monter, à finir"
+        },
+        {
+            "name": "-C3.3.3 Tracer, positionner les éléments à usiner et/ou à monter"
+        },
+        {
+            "name": "-C3.4.1 Installer les outils et/ou porte-outils."
+        },
+        {
+            "name": "-C3.4.2 Positionner et maintenir la ou les pièces sur les supports de pièces"
+        },
+        {
+            "name": "-C3.4.3-Préparer les montages d’usinage"
+        },
+        {
+            "name": "-C3.4.4 Régler les positions relatives outil/pièce (avec ou sans montage)"
+        },
+        {
+            "name": "-C3.4.5 Sélectionner et/ou afficher les paramètres et/ou programmes nécessaires à l’opération"
+        },
+        {
+            "name": "-C3.4.6 Istaller, régler les organes de sécurité"
+        },
+        {
+            "name": "-C3.5.1 Réaliser manuellement ou mécaniquement l'usinage"
+        },
+        {
+            "name": "-C3.5.2 Utiliser rationnellement les  montages et accessoires"
+        },
+        {
+            "name": "-C3.5.3 Enclencher chronologiquement les mouvements d’usinage"
+        },
+        {
+            "name": "-C3.5.4 Observer et contrôler le déroulement"
+        },
+        {
+            "name": "-C3.5.5 Identifier les anomalies sur la pièce ou le matériel et les outillages"
+        },
+        {
+            "name": "-C3.5.6 Contrôler, mesurer les usinages effectués"
+        },
+        {
+            "name": "-C3.5.7 Effectuer les actions correctives"
+        },
+        {
+            "name": "-C3.5.8 Conduire l’usinage conformément aux exigences de qualité"
+        },
+        {
+            "name": "-C3.5.9 Respecter le temps alloué"
+        },
+        {
+            "name": "-C3.5.10 Appliquer les règles et procédures de prévention et de sécurité"
+        },
+        {
+            "name": "-C3.6.1 Regrouper au poste d’assemblage les différents composants : pièces, placage, quincaillerie, vitrage, colle, accessoires…"
+        },
+        {
+            "name": "-C3.6.2 Préparer, disposer rationnellement les moyens de pressage, d’assemblage, etc.."
+        },
+        {
+            "name": "-C3.6.3 Positionner, régler les systèmes de serrage, de pressage, d’assemblage, de cadrage, etc.."
+        },
+        {
+            "name": "-C3.6.4 Encoller, équiper les pièces et composants à assembler"
+        },
+        {
+            "name": "-C3.6.5 Cadrer, presser, solidariser les pièces et composants"
+        },
+        {
+            "name": "-C3.6.6 Vérifier les valeurs caractéristiques qui assurent la qualité du produit et son bon fonctionnement"
+        },
+        {
+            "name": "-C3.6.7 Effectuer si nécessaire les actions correctives"
+        },
+        {
+            "name": "-C3.6.8 Desserrer et extraire  l’ouvrage du moyen d’assemblage ou de pressage"
+        },
+        {
+            "name": "-C3.6.9 Remettre le poste de travail dans son état initial"
+        },
+        {
+            "name": "-C3.6.10 Respecter le temps alloué"
+        },
+        {
+            "name": "-C3.6.11 Appliquer les règles de prévention et de sécurité"
+        },
+        {
+            "name": "-C3.7.1 Préparer les supports selon la finition prescrite."
+        },
+        {
+            "name": "-C3.7.2 Préparer les produits de finition selon le moyen d’application choisi."
+        },
+        {
+            "name": "-C3.7.3 Préparer les matériels"
+        },
+        {
+            "name": "C3.7.4 Appliquer les produits suivant la méthode définie par le fabricant"
+        },
+        {
+            "name": "-C3.7.5 Stocker rationnellement les produits pour séchage"
+        },
+        {
+            "name": "-C3.7.6 Poncer, égrainer, les produits de finition"
+        },
+        {
+            "name": "-C3.7.7 Contrôler les durées et délais d’intervention"
+        },
+        {
+            "name": "-C3.7.8 Nettoyer le matériel et le poste de travail"
+        },
+        {
+            "name": "-C3.7.9 Respecter le temps alloué"
+        },
+        {
+            "name": "-C3.7.10 Respecter la réglementation pour la mise en œuvre et pour le rejet des déchets"
+        },
+        {
+            "name": "-C3.7.11 Utiliser les moyens de protections individuelles et collectives"
+        },
+        {
+            "name": "-C3.8.1 Regrouper et contrôler les matériels, matériaux, produits et ouvrages"
+        },
+        {
+            "name": "-C3.8.1 Regrouper et contrôler les matériels, matériaux, produits et ouvrages"
+        },
+        {
+            "name": "-C3.8.3 Conditionner et protéger les produits et ouvrages fabriqués"
+        },
+        {
+            "name": "-C3.8.4 Charger et/ou décharger les matériaux, matériels, produits et ouvrages"
+        },
+        {
+            "name": "-C3.8.5 Appliquer les règles de prévention et de sécurité"
+        },
+        {
+            "name": "-C3.9.1 Préparer et adapter les produits et/ou mobiliers standard à la situation de pose"
+        },
+        {
+            "name": "-C3.9.2 Présenter et maintenir en position  provisoire les éléments constitutifs de l’ensemble."
+        },
+        {
+            "name": "-C3.9.3 Couper, traîner, ajuster les différents éléments constitutifs du mobilier d’agencement"
+        },
+        {
+            "name": "-C3.9.4 Utiliser les machines portatives de chantier"
+        },
+        {
+            "name": "-C3.9.5 Régler le positionnement de l’ouvrage (implantation, niveau, aplomb )"
+        },
+        {
+            "name": "-C3.9.6 Régler le fonctionnement de l’ouvrage (translation, rotation, jeu, etc..)"
+        },
+        {
+            "name": "-C3.9.7 Reconnaître et choisir les techniques et produits de fixation."
+        },
+        {
+            "name": "-C3.9.8 Mettre en oeuvre les fixations adaptées : - hydraulique- chimique- mécanique"
+        },
+        {
+            "name": "-C3.9.9 Installer les garnitures, accessoires et éléments de finition"
+        },
+        {
+            "name": "-C3.9.10 Mettre en œuvre les miroiteries sur le mobilier d’agencement"
+        },
+        {
+            "name": "-C3.9.11 Réaliser les opérations de finition et de retouche sur le chantier"
+        },
+        {
+            "name": "-C3.9.12 Respecter le temps alloué"
+        },
+        {
+            "name": "-C3.10.1 Contrôler l’état de coupe de l’outillage"
+        },
+        {
+            "name": "-C3.10.2 Décider de l’utilisation ou de la remise en état de l’outil."
+        },
+        {
+            "name": "-C3.10.3 Affûter les outillages manuels (dentures et lames droites)"
+        },
+        {
+            "name": "-C3.10.4 Affûter les outillages mécaniques (lames droites)"
+        },
+        {
+            "name": "-C3.10.5 Remplacer et régler les outils de coupe sur machines fixes et/ou électroportatives."
+        },
+        {
+            "name": "-C3.10.6 Effectuer la maintenance de premier niveau sur les machines"
+        },
+        {
+            "name": "-C3.10.7 Renseigner les documents de maintenance"
+        },
+        {
+            "name": "-C3.10.8 Nettoyer et assurer la maintenance des matériels."
+        },
+        {
+            "name": "-C3.10.9 Respecter le temps alloué"
+        },
+        {
+            "name": "-C3.10.10 Appliquer les consignes particulières de sécurité : - coupure alimentations, etc…- équipements individuels spécifiques"
+        },
+        {
+            "name": "-C3.11.1 Identifier et effectuer le tri sélectif des différents types de déchets. Produits revalorisés Produits détruits Produits récupérés et stockés"
+        },
+        {
+            "name": "-C3.11.2 Évacuer les déchets."
+        },
+        {
+            "name": "-C3.11.3 Protéger les lieux et les biens"
+        },
+        {
+            "name": "-C3.11.4 Appliquer les consignes de sécurité\n( fiche sécurité…)"
+        }
+    ],
+    "DateProjets": [
+        {
+            "Jour": 2456945,
+            "Projets": 3
+        },
+        {
+            "Jour": 2456944,
+            "Projets": 3
+        },
+        {
+            "Jour": 2456939,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456940,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456941,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456948,
+            "Projets": 3
+        },
+        {
+            "Jour": 2456947,
+            "Projets": 3
+        },
+        {
+            "Jour": 2456946,
+            "Projets": 3
+        },
+        {
+            "Jour": 2456938,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456937,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456934,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456933,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456932,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456931,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456930,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456927,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456926,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456925,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456924,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456923,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456983,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456982,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456981,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456980,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456979,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456976,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456975,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456974,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456973,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456972,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456969,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456968,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456967,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456966,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456965,
+            "Projets": 0
+        },
+        {
+            "Jour": 2456913,
+            "Projets": 4
+        },
+        {
+            "Jour": 2456920,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456919,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456918,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456917,
+            "Projets": 5
+        },
+        {
+            "Jour": 2456916,
+            "Projets": 4
+        },
+        {
+            "Jour": 2456912,
+            "Projets": 4
+        },
+        {
+            "Jour": 2456911,
+            "Projets": 4
+        },
+        {
+            "Jour": 2456910,
+            "Projets": 4
+        },
+        {
+            "Jour": 2456909,
+            "Projets": 4
+        },
+        {
+            "Jour": 2456917
+        },
+        {
+            "Jour": 2456916
+        },
+        {
+            "Jour": 2456915
+        },
+        {
+            "Jour": 2456913
+        },
+        {
+            "Jour": 2456912
+        },
+        {
+            "Jour": 2456911
+        },
+        {
+            "Jour": 2456911
+        },
+        {
+            "Jour": 2456910
+        },
+        {
+            "Jour": 2456909
+        },
+        {
+            "Jour": 2456912
+        }
+    ],
+    "Eleves": [
+        {
+            "nom": "TRANCHANT",
+            "prenom": "Dylan"
+        },
+        {
+            "nom": "LALANNE",
+            "prenom": "SIMON"
+        },
+        {
+            "nom": "SANCHEZ",
+            "prenom": "LUCAS"
+        },
+        {
+            "nom": "GILHET",
+            "prenom": "THIBAULT"
+        },
+        {
+            "nom": "FONTAINE",
+            "prenom": "ALLAN"
+        },
+        {
+            "nom": "MARREL",
+            "prenom": "KELLIAN"
+        },
+        {
+            "nom": "CORAZZA",
+            "prenom": "DAVID"
+        },
+        {
+            "nom": "BENHADRIA",
+            "prenom": "ABDALLAH"
+        },
+        {
+            "nom": "ADLA",
+            "prenom": "BILEL"
+        }
+    ],
+    "Entreprises": [
+        {
+            "addresse": "",
+            "codePostal": 0,
+            "nom": "Ebenisterie",
+            "ville": ""
+        },
+        {
+            "addresse": "",
+            "codePostal": 0,
+            "nom": "HM-Menuiserie",
+            "ville": ""
+        },
+        {
+            "addresse": "",
+            "codePostal": 38100,
+            "nom": "DECO-38",
+            "ville": "Grenoble"
+        },
+        {
+            "addresse": "",
+            "codePostal": 38600,
+            "nom": "CO-Bois",
+            "ville": "Fontaine"
+        },
+        {
+            "addresse": "",
+            "codePostal": 38130,
+            "nom": "L'art du bois",
+            "ville": "Echirolles"
+        }
+    ],
+    "Evaluations": [
+        {
+            "Activites": 6,
+            "classes": 0,
+            "eleves": 2,
+            "note": 8
+        },
+        {
+            "Activites": 6,
+            "classes": 0,
+            "eleves": 1,
+            "note": 5
+        }
+    ],
+    "Lecons": [
+        {
+            "nom": "La colle et le collage"
+        },
+        {
+            "nom": "Le vissage"
+        },
+        {
+            "nom": "Les tracés d'atelier"
+        },
+        {
+            "nom": "Règles d'isostatie"
+        },
+        {
+            "nom": "La toupie"
+        },
+        {
+            "nom": "Règles d'isostatie"
+        },
+        {
+            "nom": "Les appareils de réglage "
+        },
+        {
+            "nom": "Les types de profilages"
+        },
+        {
+            "nom": "Le profilage rectiligne"
+        },
+        {
+            "nom": "Le profilage curviligne"
+        },
+        {
+            "nom": "Les cotes de fabrication "
+        },
+        {
+            "nom": "Contrat de phase"
+        },
+        {
+            "nom": "Le systheme 32"
+        },
+        {
+            "nom": "La perceuse a tete multiple"
+        },
+        {
+            "nom": "Réglage méthodique : toupie"
+        },
+        {
+            "nom": "La tenonneuse"
+        },
+        {
+            "nom": "Les Entraineurs"
+        },
+        {
+            "nom": "Caractéristiques outils (TOV)"
+        },
+        {
+            "nom": "Organigramme"
+        },
+        {
+            "nom": "Le montage d'usinage"
+        },
+        {
+            "nom": "Les panneaux"
+        },
+        {
+            "nom": "Le vissage"
+        },
+        {
+            "nom": "Le dessin d'execution"
+        },
+        {
+            "nom": "Les assemblages a lamelles"
+        },
+        {
+            "nom": "Les tiroirs"
+        },
+        {
+            "nom": "Les fréquences de rotation "
+        },
+        {
+            "nom": "La pose des ouvrages"
+        }
+    ],
+    "LeconsProjets": [
+        {
+            "Lecons": 1,
+            "Projets": 3
+        },
+        {
+            "Lecons": 2,
+            "Projets": 3
+        },
+        {
+            "Lecons": 20,
+            "Projets": 6
+        },
+        {
+            "Lecons": 5,
+            "Projets": 5
+        },
+        {
+            "Lecons": 4,
+            "Projets": 5
+        },
+        {
+            "Lecons": 2,
+            "Projets": 5
+        },
+        {
+            "Lecons": 13,
+            "Projets": 6
+        },
+        {
+            "Lecons": 12,
+            "Projets": 6
+        }
+    ],
+    "PeriodeDeStages": [
+        {
+            "debut": 2457084,
+            "fin": 2457102
+        },
+        {
+            "debut": 2456986,
+            "fin": 2457011
+        }
+    ],
+    "Projets": [
+        {
+            "classes": 0,
+            "nom": "DESSERTE TABLE",
+            "objectif": ""
+        },
+        {
+            "SupportPratique": 3,
+            "classes": 0,
+            "nom": "Le collage par colle néoprène",
+            "objectif": "Apprendre l'utilisation des colles néoprène"
+        },
+        {
+            "SupportPratique": 0,
+            "classes": 0,
+            "nom": "Agencement de salon",
+            "objectif": "Etre capable de réaliser un meuble dans sa totalité"
+        },
+        {
+            "SupportPratique": 2,
+            "classes": 0,
+            "nom": "Réaliser une fermeture",
+            "objectif": "Etudier les menuiserie exterieures"
+        },
+        {
+            "SupportPratique": 1,
+            "classes": 0,
+            "nom": "Evaluation du niveau des élèves",
+            "objectif": "Evaluer le niveau de chaque élèves"
+        },
+        {
+            "SupportPratique": 5,
+            "classes": 0,
+            "nom": "Etudier l'escalier",
+            "objectif": "Etre capable de reconnaitre le nom des éléments d'un escalier"
+        },
+        {
+            "SupportPratique": 4,
+            "classes": 0,
+            "nom": "La fabrication e meuble démontable",
+            "objectif": "Etre capable de réaliser des meuble démontable"
+        }
+    ],
+    "Stages": [
+        {
+            "eleve": 6,
+            "entreprise": 3,
+            "peridode": 1
+        },
+        {
+            "eleve": 4,
+            "entreprise": 4,
+            "peridode": 1
+        }
+    ],
+    "SupportsPratique": [
+        {
+            "nom": "Un meuble de salon"
+        },
+        {
+            "nom": "Réfection est construction de servantes"
+        },
+        {
+            "nom": "Une double porte d'écurie"
+        },
+        {
+            "nom": "Portes de vestiaire"
+        },
+        {
+            "nom": "Placards"
+        },
+        {
+            "nom": "Escalier de meunier"
+        }
+    ],
+    "VacancesScolaires": [
+        {
+            "debut": 2457126,
+            "fin": 2457137
+        },
+        {
+            "debut": 2457063,
+            "fin": 2457074
+        },
+        {
+            "debut": 2457014,
+            "fin": 2457025
+        },
+        {
+            "debut": 2456951,
+            "fin": 2456962
+        }
+    ]
+}
